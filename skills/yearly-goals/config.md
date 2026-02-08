@@ -15,46 +15,48 @@ goals_path: ~/path/to/your/notes/2026 Goals.md
 
 ## Your Goals (define up to 9 for a 3x3 bingo card)
 
+Replace the examples below with YOUR goals. Mix aspirational with achievable.
+
 ### Category: Health & Wellness
-1. **Goal**: Reach 165 lbs
-   - **Target**: 165 lbs
-   - **Check-in question**: "How's the weight journey going? Where are you at now?"
+1. **Goal**: (e.g., "Run a half marathon", "Lose 20 lbs", "Sleep 7+ hrs consistently")
+   - **Target**: (e.g., "Complete race by October")
+   - **Check-in question**: "How's [goal] going? Where are you at?"
 
 ### Category: Career & Money
-2. **Goal**: Land a new role in AI/PM
-   - **Target**: New job by end of year
-   - **Check-in question**: "Any movement on the job search?"
+2. **Goal**: (e.g., "Get promoted", "Switch to a new role", "Launch a side project")
+   - **Target**: (e.g., "New role by Q3")
+   - **Check-in question**: "Any movement on [goal]?"
 
-3. **Goal**: Earn $10K solo income
-   - **Target**: $10,000 from freelance/consulting/products
-   - **Check-in question**: "How's the solo income tracking? Any revenue this month?"
+3. **Goal**: (e.g., "Save $X", "Pay off debt", "Build emergency fund")
+   - **Target**: (e.g., "$10,000 saved by December")
+   - **Check-in question**: "How's [goal] tracking?"
 
 ### Category: Content & Building
-4. **Goal**: Post on LinkedIn 2-3x/week consistently
-   - **Target**: 2-3 posts per week
-   - **Check-in question**: "How consistent were you posting this month?"
+4. **Goal**: (e.g., "Write weekly", "Start a newsletter", "Build in public")
+   - **Target**: (e.g., "2 posts per week")
+   - **Check-in question**: "How consistent were you this month?"
 
-### Category: Family
-5. **Goal**: Create 6 family memories this year
-   - **Target**: 6 memorable experiences
-   - **Check-in question**: "Any family memory moments this month worth logging?"
+### Category: Family & Relationships
+5. **Goal**: (e.g., "Monthly date nights", "Weekend family adventures", "Call parents weekly")
+   - **Target**: (e.g., "12 date nights this year")
+   - **Check-in question**: "Any moments worth logging this month?"
 
-6. **Goal**: Grow the family
-   - **Target**: (personal)
-   - **Check-in question**: "Any updates on growing the family?"
+6. **Goal**: (e.g., "Plan a family reunion", "Teach kid to ride a bike")
+   - **Target**: (specific milestone)
+   - **Check-in question**: "Any progress on [goal]?"
 
 ### Category: Big Life Moves
-7. **Goal**: Buy first home
-   - **Target**: Close by May
-   - **Check-in question**: "Where are things with the house?"
+7. **Goal**: (e.g., "Buy a house", "Move to a new city", "Start a business")
+   - **Target**: (e.g., "Close by summer")
+   - **Check-in question**: "Where are things with [goal]?"
 
-8. **Goal**: Travel to Japan
-   - **Target**: Trip planned and booked
-   - **Check-in question**: "Japan trip — any planning started?"
+8. **Goal**: (e.g., "Take a dream trip", "Learn a new language")
+   - **Target**: (e.g., "Trip booked by March")
+   - **Check-in question**: "Any planning started?"
 
-9. **Goal**: US citizenship
-   - **Target**: Paperwork submitted
-   - **Check-in question**: "Citizenship paperwork — any steps taken?"
+9. **Goal**: (e.g., "Complete a certification", "Write a book", "Volunteer monthly")
+   - **Target**: (specific milestone)
+   - **Check-in question**: "Any steps taken this month?"
 
 ---
 
@@ -62,21 +64,20 @@ goals_path: ~/path/to/your/notes/2026 Goals.md
 
 ```
 ┌─────────────┬─────────────┬─────────────┐
-│  165 lbs    │  AI/PM Role │  $10K Solo  │
+│  Goal 1     │  Goal 2     │  Goal 3     │
 ├─────────────┼─────────────┼─────────────┤
-│  LinkedIn   │  6 Family   │  Grow       │
-│  Consistent │  Memories   │  Family     │
+│  Goal 4     │  Goal 5     │  Goal 6     │
 ├─────────────┼─────────────┼─────────────┤
-│  Buy Home   │  Japan Trip │  Citizen    │
+│  Goal 7     │  Goal 8     │  Goal 9     │
 └─────────────┴─────────────┴─────────────┘
 ```
 
-Replace these with YOUR 9 goals. The bingo card is just a fun way to visualize them — aim for a full row, column, or diagonal!
+Fill in short names for your 9 goals. Aim for a full row, column, or diagonal!
 
 ---
 
 ## Notes
 
-- Goals should be specific enough to measure ("post 2x/week" not "be more consistent")
+- Goals should be specific enough to measure ("run 3x/week" not "exercise more")
 - Mix aspirational goals with achievable ones
 - It's OK to adjust targets mid-year — just log why

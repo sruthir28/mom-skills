@@ -8,111 +8,105 @@ Fill in your details below. The skill reads this file to personalize your weekly
 
 ```
 # Where your weekly notes live (Obsidian vault or any folder)
-weekly_notes_path: ~/path/to/your/notes/Family & Home/
+weekly_notes_path: ~/path/to/your/notes/Weekly/
 
 # Meal roster file (optional — delete if you don't track meals)
-meal_roster_path: ~/path/to/your/notes/Family & Home/Meal Roster.md
+meal_roster_path: ~/path/to/your/notes/Meal Roster.md
 
 # Archive folder for completed weeks
-archive_path: ~/path/to/your/notes/Family & Home/History/
+archive_path: ~/path/to/your/notes/Weekly/History/
 ```
 
 ---
 
 ## Household
 
-- **Adults**: 2
-- **Kids**: 1 (age 5)
+- **Adults**: (e.g., 2)
+- **Kids**: (e.g., 1, age 5 — or "none")
 - **Dietary notes**: (e.g., "no dairy", "nut allergy", "vegetarian", "kid is picky about vegetables")
 
 ---
 
 ## Weekly Schedule
 
-- **Work days**: Mon–Thu (needs prepped breakfast + lunch)
-- **Flexible days**: Friday
-- **Weekend**: Plan all meals
-- **Eating out**: Friday dinner (date night) + 1 weekend meal
-- **Prep days**: Sunday (1-2 hrs), Tuesday (30 min top-up)
+- **Work days**: (e.g., Mon–Fri)
+- **Flexible days**: (e.g., Friday — shorter day, more flexible meals)
+- **Weekend**: (e.g., plan all meals, or "mostly eating out")
+- **Eating out**: (e.g., "Friday dinner + 1 weekend meal" — helps the skill skip those slots)
+- **Prep days**: (e.g., "Sunday 1-2 hrs, Wednesday 30 min top-up")
 
 ---
 
 ## Meal Preferences
 
-### Breakfast rotation (pick 2-4, alternate days)
-- Eggs + sausage + avocado
-- Chia pudding + protein powder
-- Oatmeal + fruit + nuts
-- Smoothie bowl
-- Yogurt parfait
+### Breakfast rotation (list 2-4 options you like)
+- (e.g., Eggs + toast + avocado)
+- (e.g., Overnight oats + fruit)
+- (e.g., Smoothie + protein powder)
+- (e.g., Yogurt parfait)
 
-### Lunch (pick 1, batch cook for work days)
-- Chicken + quinoa + roasted veg
-- Turkey meatballs + roasted veg
-- Salmon + lentils + greens
-- Big salad with grilled protein
+### Lunch (list 1-3 batch-cook options)
+- (e.g., Chicken + rice + roasted veg)
+- (e.g., Big salad with grilled protein)
+- (e.g., Soup + bread)
 
-### Dinner rotation (pick 4-5 for the week)
-- Tacos
-- Stir fry
-- Sheet pan chicken + veg
-- Pasta with meat sauce
-- Soup + bread
-- Fish + roasted veg
-- Curry + rice
+### Dinner rotation (list 5-8 go-to dinners)
+- (e.g., Tacos)
+- (e.g., Stir fry)
+- (e.g., Sheet pan chicken + veg)
+- (e.g., Pasta with meat sauce)
+- (e.g., Curry + rice)
+- (e.g., Fish + roasted veg)
 
 ### Snacks
-- Cheese + crackers
-- Fruit
-- Nuts
-- Yogurt
-- Veggies + hummus
+- (e.g., Cheese + crackers)
+- (e.g., Fruit)
+- (e.g., Nuts)
+- (e.g., Veggies + hummus)
 
 ### Dessert (optional)
-- Dark chocolate
-- Fruit
+- (e.g., Dark chocolate)
+- (e.g., Fruit)
 
 ---
 
-## Health Goals (optional — delete section if not tracking)
+## Health Goals (optional — delete this section if not tracking)
 
 - **Goal**: (e.g., "weight loss", "muscle gain", "managing blood sugar", "more energy")
 - **Protein target**: (e.g., "30g+ per meal")
-- **Dietary approach**: (e.g., "low carb until dinner", "whole foods", "no added sugar")
-- **Notes**: (e.g., "rice limited to 1/4 cup", "fruit as snacks 2x/week")
+- **Dietary approach**: (e.g., "low carb", "whole foods", "no added sugar", "balanced macros")
+- **Notes**: (any other dietary rules you follow)
 
 ---
 
-## Movement Preferences (optional — delete section if not tracking)
+## Movement Preferences (optional — delete this section if not tracking)
 
-- **Strength**: 3x/week (link to workout plan or describe)
-- **Cardio**: Incline walks / zone 2 on off days
-- **Weekend**: Family activity (hike, walk, bike ride)
+- **Strength**: (e.g., "3x/week — see weekly-workout skill")
+- **Cardio**: (e.g., "walks on off days", "running 2x/week")
+- **Weekend**: (e.g., "family hike or bike ride")
 
 ---
 
-## Tracking Metrics (optional — delete section if not tracking)
+## Tracking Metrics (optional — delete this section if not tracking)
 
 These show up in the Sunday Review section of your weekly note. Fill in what you want to track:
 
 | Metric | Example |
 |--------|---------|
-| Weight | 170 lbs |
-| Waist | 34 in |
-| Steps/day avg | 8,000 |
-| LinkedIn impressions | 5,000 |
-| Sleep avg | 7 hrs |
+| (e.g., Weight) | 170 lbs |
+| (e.g., Steps/day avg) | 8,000 |
+| (e.g., Sleep avg) | 7 hrs |
+| (e.g., Screen time) | 3 hrs |
 
 ---
 
 ## Grocery Staples (always check these)
 
-- [ ] Eggs
-- [ ] Milk
-- [ ] Bread
-- [ ] Fruit
-- [ ] Cooking oil
-- [ ] Coffee/tea
+- [ ] (e.g., Eggs)
+- [ ] (e.g., Milk)
+- [ ] (e.g., Bread)
+- [ ] (e.g., Fruit)
+- [ ] (e.g., Coffee/tea)
 
 ---
 
